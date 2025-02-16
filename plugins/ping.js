@@ -2,7 +2,7 @@ const { bot } = require('../lib/')
 
 bot(
   {
-    pattern: 'babu ?(.*)',
+    pattern: 'bou ?(.*)',
     desc: 'To check ping',
     type: 'misc',
   },
