@@ -10,6 +10,6 @@ bot(
     const start = new Date().getTime()
     await message.send('```ＳＯＵＶＩＫ－ＸＤ!```')
     const end = new Date().getTime()
-    return await message.send('*DAIRY MILK!*\n ```' + (end - start) + '``` *ms*')
+    return await message.send('*DAIRYMILK!*\n ```' + (end - start) + '``` *ms*')
   }
 )
